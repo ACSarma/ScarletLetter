@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="asarmaapps.com.scarletletter.MainActivity"
+    android:orientation="horizontal"
+    android:background="#9f3032">
+
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:background="#302e2e">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="7.5dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/description"
+            android:onClick="GoSome"
+            android:text="Description"
+            android:background="#b9a6a1a1"
+            android:layout_weight="1"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="7.5dp"
+            android:id="@+id/symbol"
+            android:onClick="GoSome"
+            android:text="  Symbols  "
+            android:background="#b9a6a1a1"
+            android:layout_weight="1"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="7.5dp"
+            android:id="@+id/biographical"
+            android:onClick="GoSome"
+            android:text=" Biography "
+            android:background="#b9a6a1a1"
+            android:layout_weight="1"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="7.5dp"
+            android:layout_marginBottom="15dp"
+            android:id="@+id/actions"
+            android:onClick="GoSome"
+            android:text="  Actions  "
+            android:background="#b9a6a1a1"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:id="@+id/frame"
+            android:layout_weight="5"
+            android:background="#9f3032">
+
+        </FrameLayout>
+</LinearLayout>

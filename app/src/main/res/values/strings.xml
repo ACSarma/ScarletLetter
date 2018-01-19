@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ScarletLetter</string>
+    //---------------------------------------------------------------------------------------Description
+    <string name="dTitle">How Does Roger Chillingworth Change Throughout the Novel?</string>
+    <string name="d1">In the beginning of the novel, Chillingworth is seen in the crowd surrounding Hester Prynne and the prison. His facial expressions and body movement reveal his sharpness, which
+        contributes to the understanding of his background later in the novel.</string>
+    <string name="dq2">On page 56, the author describes Chillingworth\'s appearance: \n  \"... his look became keen and penetrative, like a snake gliding swiftly over them, and making one little pauss.\" \n
+        \"His face darkened with some powerful emotion.\"</string>
+    <string name="d2">At first, Chillingworth seems sharp and cunning based on the comparison between his movements and those of a snake. The description of his facial expression as being keen and penetrative
+        creates an image of a sharp-eyed figure focused on one object or person; in this case, he is focused on Hester Prynne, who is standing outside the prison gates.
+        like a very secretive as he puts his finger to his lips when making eye contact with Hester Prynne. This initial observation </string>
+    //---------------------------------------------------------Biography
+    <string name="bTitle"> Who is Roger Chillinworth?</string>
+    <string name="b1">Roger Chillingworth is Hester Prynne\'s husband who arrives in Massachusetts after Hester Prynne to find her in prison and charged with Adultry.</string>
+    <string name="bq2">On page 56: \"By the Indian\'s side, and evidently sustaining a companionship with him, stood a white man, clad in a strange dissaray of civilized and savage costume.\"</string>
+</resources>
