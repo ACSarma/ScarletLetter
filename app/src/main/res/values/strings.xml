@@ -7,16 +7,34 @@
     <string name="dq2">On page 56, the author describes Chillingworth\'s appearance: \n  \"... his look became keen and penetrative, like a snake gliding swiftly over them, and making one little pause.\" \n
         \"His face darkened with some powerful emotion.\"</string>
     <string name="d2">At first, Chillingworth seems sharp and cunning based on the comparison between his movements and those of a snake. The description of his facial expression as being keen and penetrative
-        creates an image of a sharp-eyed figure focused on one object or person; in this case, he is focused on Hester Prynne, who is standing outside the prison gates.
-        like a very secretive as he puts his finger to his lips when making eye contact with Hester Prynne. This initial observation </string>
-    <string name="dq3">Bottom of page 65, inside the prison cell: \"Prithee, friend, leave me alone with my patient,\"said the practitioner. \"Trust me, good jailer, you shall briefly have peace in your house; and,
+        creates an image of a sharp-eyed figure focused on one object or person; in this case, he is focused on Hester Prynne, who is standing outside the prison gates. This initial observation makes him seem
+        like a secretive person as he puts his finger to his lips when making eye contact with Hester Prynne.</string>
+    <string name="dq3">Bottom of page 65, inside the prison cell: \n \"Prithee, friend, leave me alone with my patient,\"said the practitioner. \"Trust me, good jailer, you shall briefly have peace in your house; and,
         I promise you, Mistress Prynne shall hereafter be more amenable to just authority than you may have found her heretofore \"</string>
     <string name="d3">Chillingworth\'s actions to the jailer in the prison cell shows his ego and authority over others. He seems to act like a trusted professional by assuring the jailer that the prisoner, Hester
-        Prynne, will be more controlled or \" able to just authority \" .
-        By referring to Hester Prynne as \"Mistress Prynne\", he shows proper manner and a sense of maturity. This description contrasts from the previous one; Chillingworth isn\'t very secretive in the first
-        encounter in the prison cell, unlike his movement in the crowd earlier in page 56.</string>
+        Prynne, will be more controlled or \" able to just authority \" . By referring to Hester Prynne as \"Mistress Prynne\", he shows proper manner and a sense of maturity. This description contrasts from the previous one;
+        Chillingworth isn\'t very secretive in the first encounter in the prison cell, unlike his movement in the crowd earlier in page 56.</string>
+    <string name="dq4">Page 99, in Governor Bellingham\'s palace: \n \" Old Roger Chillingworth, with a smile on his face, whispered something in the young clergyman\'s ear. Hester Prynne looked at the man of skill,
+        and even then, with her fate hanging in the balance, was startled to perceive what a change had come over his features—how much uglier they were, how his dark complexion seemed to have grown duskier,
+        and his figure more misshapen—since the days when she had familiarly known him. \"</string>
+    <string name="d4">This is the second time Chillingworth is seen by Hester Prynne since she saw him in the prison cell. The thoughts from Hester Prynne reveal that Chillingworth has aged by some amount and doesn\'t
+        appear to have the sharp looks to match his sharp nature. At this point in the novel, Pearl is 3 years old which means that this interaction in Governor Bellingham\'s palace was around a year or two after the
+        interaction in the prison. If Chillingworth had to change this much in the time window of 2 years, he is probably under stress or pressure. This would make sense since it was revealed that he is determined to find out
+        who Hester Prynne had an affair with; Chillingworth probably spent the past 2 years in search of this person.
+        </string>
     //---------------------------------------------------------Biography
     <string name="bTitle"> Who is Roger Chillinworth?</string>
     <string name="b1">Roger Chillingworth is Hester Prynne\'s husband who arrives in Massachusetts after Hester Prynne to find her in prison and charged with Adultry.</string>
     <string name="bq2">On page 56: \"By the Indian\'s side, and evidently sustaining a companionship with him, stood a white man, clad in a strange dissaray of civilized and savage costume.\"</string>
+    <string name="b2">The author uses this detail about Chillingworth to describe his appearance and nature in the rest of the novel. Since he lived with Native Americans for some time, his clothing is different from
+        the rest of the colonies clothing. Native Americans during this time period were also viewed as mysterious or wild savages. This plays a role in Chillingworth's character </string>
+    //---------------------------------------------------------------------------------------Actions
+    <string name="aTitle">What Significant Actions Does Roger Chillingworth Perform?</string>
+    <string name="a1">Throughout the novel, Roger Chillingworth decides to take action in response to other event. This not only adds to our understanding of him but it also influences other characters</string>
+    <string name="aq2">On page 103, In Governor Bellingham\'s palace, Chillingworth questions Mr.Wilson about Pearl:\n\" Would it be beyond a philosopher’s research, think ye, gentlemen, to analyse that child’s nature,
+        and, from it make a mould, to give a shrewd guess at the father? \" </string>
+    <string name="a2">This decision to ask Mr. Wilson if it was reasonable for him to find the father implies that Chillingworth is eager to actually find the father of the child and make it apparant to the officials of
+        their society like the ones he is speaking to in Governor Bellingham\'s palace. This contributes to the developing theme by qualifying Chillingworth\'s desire to find the person Hester Prynne had an affair with.
+        Knowing that Chillingworth is Dimmesdale\'s close friend, and that Dimmesdale had the affair with Hester Prynne, the readers have a feeling that there will be increased tensions between the two characters.
+        The situation might compromise</string>
 </resources>
