@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#bae7b2b4">
@@ -32,17 +32,34 @@
                 android:fontFamily="casual"
                 android:textStyle="bold"
                 android:textSize="17.5sp" />
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/dq2"
+                android:textSize="20sp"
+                android:textStyle="italic" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/d2"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginVertical="5dp"
+                android:fontFamily="casual"
+                android:textStyle="bold"
+                android:textSize="17.5sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dq3"
                 android:gravity="center_horizontal"
                 android:textStyle="italic"
                 android:textSize="20sp" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/d2"
+                android:text="@string/d3"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginVertical="5dp"
                 android:fontFamily="casual"

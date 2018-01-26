@@ -4,11 +4,17 @@
     <string name="dTitle">How Does Roger Chillingworth Change Throughout the Novel?</string>
     <string name="d1">In the beginning of the novel, Chillingworth is seen in the crowd surrounding Hester Prynne and the prison. His facial expressions and body movement reveal his sharpness, which
         contributes to the understanding of his background later in the novel.</string>
-    <string name="dq2">On page 56, the author describes Chillingworth\'s appearance: \n  \"... his look became keen and penetrative, like a snake gliding swiftly over them, and making one little pauss.\" \n
+    <string name="dq2">On page 56, the author describes Chillingworth\'s appearance: \n  \"... his look became keen and penetrative, like a snake gliding swiftly over them, and making one little pause.\" \n
         \"His face darkened with some powerful emotion.\"</string>
     <string name="d2">At first, Chillingworth seems sharp and cunning based on the comparison between his movements and those of a snake. The description of his facial expression as being keen and penetrative
         creates an image of a sharp-eyed figure focused on one object or person; in this case, he is focused on Hester Prynne, who is standing outside the prison gates.
         like a very secretive as he puts his finger to his lips when making eye contact with Hester Prynne. This initial observation </string>
+    <string name="dq3">Bottom of page 65, inside the prison cell: \"Prithee, friend, leave me alone with my patient,\"said the practitioner. \"Trust me, good jailer, you shall briefly have peace in your house; and,
+        I promise you, Mistress Prynne shall hereafter be more amenable to just authority than you may have found her heretofore \"</string>
+    <string name="d3">Chillingworth\'s actions to the jailer in the prison cell shows his ego and authority over others. He seems to act like a trusted professional by assuring the jailer that the prisoner, Hester
+        Prynne, will be more controlled or \" able to just authority \" .
+        By referring to Hester Prynne as \"Mistress Prynne\", he shows proper manner and a sense of maturity. This description contrasts from the previous one; Chillingworth isn\'t very secretive in the first
+        encounter in the prison cell, unlike his movement in the crowd earlier in page 56.</string>
     //---------------------------------------------------------Biography
     <string name="bTitle"> Who is Roger Chillinworth?</string>
     <string name="b1">Roger Chillingworth is Hester Prynne\'s husband who arrives in Massachusetts after Hester Prynne to find her in prison and charged with Adultry.</string>
