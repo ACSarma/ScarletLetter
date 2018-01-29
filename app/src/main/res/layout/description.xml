@@ -96,6 +96,23 @@
                 android:fontFamily="casual"
                 android:textStyle="bold"
                 android:textSize="17.5sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dq6"
+                android:gravity="center_horizontal"
+                android:textStyle="italic"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/d6"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginVertical="5dp"
+                android:fontFamily="casual"
+                android:textStyle="bold"
+                android:textSize="17.5sp" />
+
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
