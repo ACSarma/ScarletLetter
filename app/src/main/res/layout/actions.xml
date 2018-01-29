@@ -50,6 +50,47 @@
                 android:fontFamily="casual"
                 android:textStyle="bold"
                 android:textSize="17.5sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="@string/aq3"
+                android:textSize="20sp"
+                android:textStyle="italic" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/a3"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginVertical="5dp"
+                android:fontFamily="casual"
+                android:textStyle="bold"
+                android:textSize="17.5sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/a33"
+                android:gravity="center"
+                android:fontFamily="casual"
+                android:textStyle="bold"
+                android:textSize="17.5sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="@string/aq4"
+                android:textSize="20sp"
+                android:textStyle="italic" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/a4"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginVertical="5dp"
+                android:fontFamily="casual"
+                android:textStyle="bold"
+                android:textSize="17.5sp" />
+
         </LinearLayout>
     </ScrollView>
 

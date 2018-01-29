@@ -25,7 +25,8 @@
     <string name="dq5">Page 112, the narrator references \"&#8230;Two or three individuals &#8230;\" who describe the changes of Chillingworth from a \"&#8230;calm, meditative, scholar-like &#8230;\" person to \"&#8230;
         something ugly and evil, which they had not previously noticed, and which grew still the more obvious to sight, the oftener the looked upon him. \"</string>
     <string name="d5">At this point in the novel, Chillingworth has established himself as a dark, evil individual. His appearance in the beginning of the novel was sharp and professional; he did not seem like a person who
-        would contribute to the harm of other characters. After a few chapters, he begins to physically change to become a \" darker \" person and Hester Prynnes dialogue and opinion about him show his evil side.</string>
+        would contribute to the harm of other characters. After a few chapters, he begins to physically change to become a \" darker \" person and Hester Prynne\'s dialogue and opinion about him shows his evil side.</string>
+    <string name="dq6"></string>
     //---------------------------------------------------------Biography
     <string name="bTitle"> Who is Roger Chillinworth?</string>
     <string name="b1">Roger Chillingworth is Hester Prynne\'s husband who arrives in Massachusetts after Hester Prynne to find her in prison and charged with Adultry.</string>
@@ -47,11 +48,22 @@
         their society like the ones he is speaking to in Governor Bellingham\'s palace. This contributes to the developing theme by qualifying Chillingworth\'s desire to find the person Hester Prynne had an affair with.
         Knowing that Chillingworth is Dimmesdale\'s close friend, and that Dimmesdale had the affair with Hester Prynne, the readers have a feeling that there will be increased tensions between the two characters.
         The situation might compromise the health of their relationship further along in the novel.</string>
-    <string name="aq3"></string>
+    <string name="aq3">On pages 114-115, Chillingworth and Dimmesdale are in the same room discussing the strange dark weeds Chillingworth gathered from the grave. Chillingworth says that th weeds, \"&#8230; sprung up out of a
+        buried heart, to make manifest an unspoken crime. \", Dimmesdale thinks that \"&#8230; the hearts holding such miserable secrets as you speak of will yield them up, at that last day &#8230;\". Lastly, Chillingworth
+        responds to Dimmesdale by asking, \" Then why not reveal them here? \".</string>
+    <string name="a3">Chillingworth\'s decision to bring the dark weeds from the graves and characterize them as weeds that reveal secrets of the dead show his determination of understanding how people\'s secrets can be revealed
+        Based on Chillingworth\'s initial description about the dark weeds, it seems that the secrets of people buried in the graves are manifested in the dark weeds themselves. Dimmesdale tries to correct Chillingworth by
+        speaking of secrets being revealed on \"&#8230; the last day &#8230;\". After this, Chillingworth abruptly asks Dimmesdale \"&#8230; why not reveal them here &#8230;\" which can be interpreted as Chillingworth asking
+        Dimmesdale to reveal his own secrets at that moment. This dialogue is significant since it shows the measures Chillingworth goes to make Dimmesdale reveal his inner secrets which is torture for him.
+        </string>
+    <string name="a33">This can be seen directly after this dialogue when Chillingworth emphasizes his point of people revealing their secrets earlier:</string>
+    <string name="aq4">Page 115, \"&#8230; should not the guilty ones sooner avail themselves of this unutterable solace ?\"</string>
+    <string name="a4">Dimmesdale says that they mostly do reveal their secrets earlier and he starts to gripe his own heart. This relates back to the previous analysis and shows how Chillingworth, while being Dimmesdale\'s
+        physician and medical assistant, manages to inflict pain and hardship on Dimmesdale. It also shows that Dimmesdale has his own secret that Chillingworth attempts to uncover.</string>
     //------------------------------------------------------------------------Symbolism
     <string name="sTitle">What Symbols Represent Roger Chillingworth?</string>
     <string name="s1">Chillingworth is represented by a few symbols, referencing to the Bible or to the novel\'s environment, throughout the novel </string>
-    <string name="sq2">On page 56, the author describes Chillingworth\'s appearance: \n  \"&#8230;his look became keen and penetrative, like a snake gliding swiftly over them, and making one little pause.\" \n
+    <string name="sq2">On page 56, the author describes Chillingworth\'s appearance: \n  \"&#8230;his look became keen and penetrative, like a snake gliding swiftly over them, and making one little pause.\"\n
         \"His face darkened with some powerful emotion.\"</string>
     <string name="s2">The reference of the snake in this quote is seen in other works of literature such as the Epic of Gilgamesh and it represents the snake from the Garden of Eden. The snake, or serpent, referenced in the
         Biblical story is described as cunning, intimidating, and evil.</string>
