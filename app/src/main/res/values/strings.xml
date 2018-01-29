@@ -4,7 +4,7 @@
     <string name="dTitle">How Does Roger Chillingworth Change Throughout the Novel?</string>
     <string name="d1">In the beginning of the novel, Chillingworth is seen in the crowd surrounding Hester Prynne and the prison. His facial expressions and body movement reveal his sharpness, which
         contributes to the understanding of his background later in the novel.</string>
-    <string name="dq2">On page 56, the author describes Chillingworth\'s appearance: \n  \"... his look became keen and penetrative, like a snake gliding swiftly over them, and making one little pause.\" \n
+    <string name="dq2">On page 56, the author describes Chillingworth\'s appearance: \n  \"&#8230;his look became keen and penetrative, like a snake gliding swiftly over them, and making one little pause.\" \n
         \"His face darkened with some powerful emotion.\"</string>
     <string name="d2">At first, Chillingworth seems sharp and cunning based on the comparison between his movements and those of a snake. The description of his facial expression as being keen and penetrative
         creates an image of a sharp-eyed figure focused on one object or person; in this case, he is focused on Hester Prynne, who is standing outside the prison gates. This initial observation makes him seem
@@ -22,19 +22,61 @@
         interaction in the prison. If Chillingworth had to change this much in the time window of 2 years, he is probably under stress or pressure. This would make sense since it was revealed that he is determined to find out
         who Hester Prynne had an affair with; Chillingworth probably spent the past 2 years in search of this person.
         </string>
+    <string name="dq5">Page 112, the narrator references \"&#8230;Two or three individuals &#8230;\" who describe the changes of Chillingworth from a \"&#8230;calm, meditative, scholar-like &#8230;\" person to \"&#8230;
+        something ugly and evil, which they had not previously noticed, and which grew still the more obvious to sight, the oftener the looked upon him. \"</string>
+    <string name="d5">At this point in the novel, Chillingworth has established himself as a dark, evil individual. His appearance in the beginning of the novel was sharp and professional; he did not seem like a person who
+        would contribute to the harm of other characters. After a few chapters, he begins to physically change to become a \" darker \" person and Hester Prynnes dialogue and opinion about him show his evil side.</string>
     //---------------------------------------------------------Biography
     <string name="bTitle"> Who is Roger Chillinworth?</string>
     <string name="b1">Roger Chillingworth is Hester Prynne\'s husband who arrives in Massachusetts after Hester Prynne to find her in prison and charged with Adultry.</string>
-    <string name="bq2">On page 56: \"By the Indian\'s side, and evidently sustaining a companionship with him, stood a white man, clad in a strange dissaray of civilized and savage costume.\"</string>
+    <string name="bq2">On page 56:\n\"By the Indian\'s side, and evidently sustaining a companionship with him, stood a white man, clad in a strange dissaray of civilized and savage costume.\"</string>
     <string name="b2">The author uses this detail about Chillingworth to describe his appearance and nature in the rest of the novel. Since he lived with Native Americans for some time, his clothing is different from
-        the rest of the colonies clothing. Native Americans during this time period were also viewed as mysterious or wild savages. This plays a role in Chillingworth's character </string>
+        the rest of the colonies clothing. Native Americans during this time period were also viewed as mysterious or wild savages. This plays a role in Chillingworth's character, since he is portrayed as a secretive
+        being later on.</string>
+    <string name="bq3">One page 108:\n\"&#8230;the mysterious old Roger Chillingworth became the medical adviser of the Reverend Mr. Dimmesdale \"</string>
+    <string name="b3">This is a key fact about Chillingworth that is important to understanding the relationship between Chillingworth and Dimmesdale. This small description of Chillingworth\'s occupation comes after a
+        description of Dimmesdale\'s medical condition. The main reason for Chillingworth to narrow down his search for the person Hester Prynne had an affair with to Dimmesdale is mainly caused by him being Dimmesdale\'s
+        physician. If Dimmesdale did not have these symptoms, Chillingworth would not be his physician and would not have gotten to know Dimmesdale as he did in the novel. We would not have seen the interactions between
+        Dimmesdale and Chillingworth in the way that we see them in the novel.</string>
     //---------------------------------------------------------------------------------------Actions
     <string name="aTitle">What Significant Actions Does Roger Chillingworth Perform?</string>
     <string name="a1">Throughout the novel, Roger Chillingworth decides to take action in response to other event. This not only adds to our understanding of him but it also influences other characters</string>
     <string name="aq2">On page 103, In Governor Bellingham\'s palace, Chillingworth questions Mr.Wilson about Pearl:\n\" Would it be beyond a philosopher’s research, think ye, gentlemen, to analyse that child’s nature,
         and, from it make a mould, to give a shrewd guess at the father? \" </string>
-    <string name="a2">This decision to ask Mr. Wilson if it was reasonable for him to find the father implies that Chillingworth is eager to actually find the father of the child and make it apparant to the officials of
+    <string name="a2">This decision to ask Mr. Wilson if it was reasonable for him to find the father implies that Chillingworth is eager to actually find the father of the child and make it apparent to the officials of
         their society like the ones he is speaking to in Governor Bellingham\'s palace. This contributes to the developing theme by qualifying Chillingworth\'s desire to find the person Hester Prynne had an affair with.
         Knowing that Chillingworth is Dimmesdale\'s close friend, and that Dimmesdale had the affair with Hester Prynne, the readers have a feeling that there will be increased tensions between the two characters.
-        The situation might compromise</string>
+        The situation might compromise the health of their relationship further along in the novel.</string>
+    <string name="aq3"></string>
+    //------------------------------------------------------------------------Symbolism
+    <string name="sTitle">What Symbols Represent Roger Chillingworth?</string>
+    <string name="s1">Chillingworth is represented by a few symbols, referencing to the Bible or to the novel\'s environment, throughout the novel </string>
+    <string name="sq2">On page 56, the author describes Chillingworth\'s appearance: \n  \"&#8230;his look became keen and penetrative, like a snake gliding swiftly over them, and making one little pause.\" \n
+        \"His face darkened with some powerful emotion.\"</string>
+    <string name="s2">The reference of the snake in this quote is seen in other works of literature such as the Epic of Gilgamesh and it represents the snake from the Garden of Eden. The snake, or serpent, referenced in the
+        Biblical story is described as cunning, intimidating, and evil.</string>
+    <string name="s22"> These qualities can also be used to describe Chillingworth:</string>
+    <string name="sq3">On page 171, Hester Prynne describes Chillingworth as \"&#8230;a new horror &#8230;\" and that there is \"&#8230;a strange secrecy in his nature &#8230;\".\n Dimmesdale also exclaims to Hester Prynne,
+        \"&#8230;how am I to live longer, breathing he same air with this deadly enemy? \"\n Hester Prynne further characterizes Chillingworth by saying to Dimmesdale , \" Thy heart must be no longer under his evil eye!\"
+        </string>
+    <string name="s3">From the dialogue on page 171, certain words such as \"horror\", \"secrecy\", \"deadly\", and \"evil\" all relate to the qualities of the snake in the Garden of Eden. This shows a direct relationship between
+        the role Chillingworth plays in this novel and the snake in the Garden of Eden. </string>
+    <string name="sq4">A name that is featured many times throughout the novel is \"the Black Man\". It is mentioned earlier in the novel on page 70:\n\"Art thou like the Black Man that haunts the forest round about us?\"\n
+        Hester Prynne, after saying the above quote also asks Chillingworth, \" Hast thou enticed me into a bond that will prove the ruin of my soul? \". Chillingworth responds, \" Not thy soul &#8230;No not thine! \".\n
+        Page 112 also contains a direct reference to the Devil:\n\"Reverend Arthur Dimmesdale &#8230;was haunted either by Satan himself, or Satan\'s emissary, in the guise of old Roger Chillingworth\".
+        </string>
+    <string name="s4">The Black Man is another representation of evil and originated from primitive religions. In Christianity, the Black Man is considered a devil in disguise of an animal or a person dressed in black. This
+        fits with the idea of Chillingworth being an evil character in the book. Like a devil, Chillingworth, torments and slowly weakens Dimmesdale throughout the novel. Dimmesdale also fears Chillingworth and his methods
+        towards the end of the novel. When Chillingworth says that he isn\'t looking to ruin Hester Prynne\'s soul, he indirectly says that he will ruin the soul of who she had an affair with, which is Dimmesdale.
+        Hester Prynne is also affected by Chillingworth and loathes him incredibly throughout the novel.
+        </string>
+    <string name="sq5">The symbol of darkness is also associated with Chillingworth. Darkness is similar to the Black Man from above but it is not directly connected to a devil, instead it is more related to the presence of
+        evil or hardship. Early in the novel, the prison is described as a \" darksome apartment \" and a \" passage-way \".</string>
+    <string name="s5">The darkness of the prison relates to confinement or secrecy, since when it is dark, things become obscure and hard to detect. This is much like Chillingworth since he is also described as secretive in
+        nature. Hester Prynne also refuses to tell Chillingworth who she had an affair with, which alligns with the theme of obscurity.</string>
+    <string name="s55">In addition, Chillingworth\'s visual appearance has darker features:</string>
+    <string name="sq6">On page 56, Chillingworth\'s visual appearance is described: \"His face darkened with some powerful emotion.\", and on page 99, in Governor Bellingham\'s palace: \n \"&#8230;a change had come over his
+        features—how much uglier they were, how his dark complexion seemed to have grown duskier &#8230;\"</string>
+    <string name="s6">These quotes show that Chillingworth\'s appearance itself has the theme of darkness embedded in it. This is good for characterizing Chillingworth as a dark, ominous, secretive person with evil intentions.
+        These intentions can be seen by the way Dimmesdale reacts to Chillingworth, and the pain that is caused by Chillingworth on Dimmesdale and Hester Prynne.</string>
 </resources>
