@@ -1,5 +1,15 @@
 <resources>
     <string name="app_name">ScarletLetter</string>
+    <string name="home">Welcome to the Scarlet Letter Journal!</string>
+    <string name="home2">Use the Buttons on the side to navigate the app.</string>
+    <string name="rTitle">Reflection on this Journal:</string>
+    <string name="r1">I chose to make a virtual journal in form of an application because I can use my knowledge of app making and my creativity to express the ideas in the novel. I made an app for The Epic of Gilgamesh
+        and a few other projects in other classes. I like this format because I can design something that is unique and also educate others by sharing the app with my peers. My journal does not have images in it because I
+        wanted the theme of this journal to be mainly about the quotes and analysis. Since red and black were two significant colors represented in the novel, I also wanted as much red and black as possible in the design;
+        adding pictures would disrupt the flow of red. The quotes that I selected for the journal provided me with a good understanding of the novel since they are detailed and make me imagine the events of the story as they
+        are happening. Keeping this journal was helpful since I could gradually add to it as I read and also tweak the design based on how the app looked after each edit. When I found a good quote to use that had a lot of
+        imagery or was at a key point in the story, I reread parts of the story before and after it to get a better understanding of what was happening. This made reading the novel a longer process but it was needed to
+        make the journal as thorough as possible. </string>
     //---------------------------------------------------------------------------------------Description
     <string name="dTitle">How Does Roger Chillingworth Change Throughout the Novel?</string>
     <string name="d1">In the beginning of the novel, Chillingworth is seen in the crowd surrounding Hester Prynne and the prison. His facial expressions and body movement reveal his sharpness, which

@@ -62,5 +62,52 @@
             android:layout_weight="5"
             android:background="#9f3032">
 
+                <ScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:padding="10dp"
+                            android:orientation="vertical">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/home"
+                                android:layout_gravity="center_horizontal"
+                                android:textSize="30sp"
+                                android:textStyle="bold"
+                                android:gravity="center_horizontal"
+                                android:layout_marginBottom="10dp"/>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/home2"
+                                android:layout_gravity="center_horizontal"
+                                android:layout_marginVertical="5dp"
+                                android:fontFamily="casual"
+                                android:textStyle="bold"
+                                android:textSize="17.5sp" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/home"
+                                android:layout_gravity="center_horizontal"
+                                android:textSize="25sp"
+                                android:textStyle="bold"
+                                android:gravity="center_horizontal"
+                                android:layout_marginBottom="10dp"/>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/r1"
+                                android:layout_gravity="center_horizontal"
+                                android:layout_marginVertical="5dp"
+                                android:fontFamily="casual"
+                                android:textStyle="bold"
+                                android:textSize="17.5sp" />
+                        </LinearLayout>
+                    </ScrollView>
         </FrameLayout>
 </LinearLayout>
