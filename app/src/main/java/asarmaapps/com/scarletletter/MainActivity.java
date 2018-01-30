@@ -11,7 +11,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Button[] button =  new Button[4];
+    private Button[] button =  new Button[5];
     private FragmentManager fragmentManager;
     private FragmentTransaction fragmentTransaction;
 
@@ -20,10 +20,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         fragmentManager = getFragmentManager();
-        button[0] = findViewById(R.id.description);
-        button[1] = findViewById(R.id.symbol);
-        button[2] = findViewById(R.id.biographical);
-        button[3] = findViewById(R.id.actions);
+        button[0] = findViewById(R.id.home);
+        button[1] = findViewById(R.id.description);
+        button[2] = findViewById(R.id.symbol);
+        button[3] = findViewById(R.id.biographical);
+        button[4] = findViewById(R.id.actions);
+
+        GoSome(button[0]);
     }
 
     public void GoSome(View view){
@@ -31,19 +34,23 @@ public class MainActivity extends AppCompatActivity {
         fragmentTransaction = fragmentManager.beginTransaction();
         Button b = (Button)view;
         switch (b.getText().toString()){
-            case "Description": bColor(0);
+            case "Home Page": bColor(0);
+                fragment = new Home();
+                fragmentSet(fragmentTransaction, fragment);
+                break;
+            case "Description": bColor(1);
                 fragment = new Description();
                 fragmentSet(fragmentTransaction, fragment);
                 break;
-            case "  Symbols  ": bColor(1);
+            case "  Symbols  ": bColor(2);
                 fragment = new Symbols();
                 fragmentSet(fragmentTransaction, fragment);
                 break;
-            case " Biography ": bColor(2);
+            case " Biography ": bColor(3);
                 fragment = new Biography();
                 fragmentSet(fragmentTransaction, fragment);
                 break;
-            case "  Actions  ": bColor(3);
+            case "  Actions  ": bColor(4);
                 fragment = new Actions();
                 fragmentSet(fragmentTransaction, fragment);
                 break;
@@ -53,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void bColor(int index){
-        for(int i=0; i<4; i++){
+        for(int i=0; i<5; i++){
             if(i != index) {
                 button[i].setBackgroundColor(Color.parseColor("#bae7b2b4"));
             }else{
