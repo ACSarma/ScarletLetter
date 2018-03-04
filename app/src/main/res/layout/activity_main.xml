@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    xmlns:Amazon="http://schemas.android.com/apk/lib/com.amazon.device.ads"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="asarmaapps.com.scarletletter.MainActivity"
-    android:orientation="horizontal"
-    android:background="#9f3032">
+    android:orientation="vertical"
+    android:background="#9f3032"
+    android:id="@+id/mainLayout">
 
+    <com.amazon.device.ads.AdLayout
+        android:id="@+id/ad_view"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal">
     <LinearLayout
         android:layout_width="133dp"
         android:layout_height="match_parent"
@@ -75,4 +86,5 @@
             android:layout_weight="5"
             android:background="#9f3032">
         </FrameLayout>
+    </LinearLayout>
 </LinearLayout>
