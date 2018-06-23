@@ -8,43 +8,18 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.LinearLayout;
-
-import com.amazon.device.ads.AdLayout;
-import com.amazon.device.ads.AdRegistration;
-import com.amazon.device.ads.AdTargetingOptions;
 
 public class MainActivity extends AppCompatActivity {
 
     private Button[] button = new Button[5];
     private FragmentManager fragmentManager;
     private FragmentTransaction fragmentTransaction;
-    private AdLayout adView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        AdRegistration.setAppKey("b0d9a77e4102467cb0a13646904b1dcb");
-        // Programmatically create the AmazonAdLayout
-        /*
-        this.adView = (AdLayout) findViewById(R.id.ad_view);
-        LinearLayout layout = (LinearLayout) findViewById(R.id.mainLayout);
-        // Set the correct width and height of the ad
-        LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(
-                LinearLayout.LayoutParams.MATCH_PARENT,
-                LinearLayout.LayoutParams.MATCH_PARENT);
-        layout.addView(this.adView, lp);
-
-        // If you declared AdLayout in your xml you would instead
-        // replace the 3 lines above with the following line:
-        //   this.adView = (AdLayout) findViewById(R.id.adview);
-
-        AdTargetingOptions adOptions = new AdTargetingOptions();
-        // Optional: Set ad targeting options here.
-        this.adView.loadAd(adOptions); // Retrieves an ad on background thread
-*/
         fragmentManager = getFragmentManager();
         button[0] = findViewById(R.id.home);
         button[1] = findViewById(R.id.description);

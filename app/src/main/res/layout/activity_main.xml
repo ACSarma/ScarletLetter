@@ -9,11 +9,6 @@
     android:background="#9f3032"
     android:id="@+id/mainLayout">
 
-    <com.amazon.device.ads.AdLayout
-        android:id="@+id/ad_view"
-        android:layout_width="match_parent"
-        android:layout_height="50dp"/>
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="fill_parent"
